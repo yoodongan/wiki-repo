@@ -27,3 +27,11 @@
 ## [ 알고리즘 ]
 - [인프런 알고리즘 정리](https://hushed-bite-bb4.notion.site/InfLearn-53b9c430b789468f9b4ba05d5b2174bc)
 - [프로그래머스, 백준 알고리즘 정리](https://hushed-bite-bb4.notion.site/4e502d1f80be4e4db253e888b33e4aaf?v=69cc9e7d7aae48c6a000fbb1cdd28d31)
+
+
+---
+### 참조(출처)
+- [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149)
+- [자바(Java) 알고리즘 문제풀이 입문: 코딩테스트 대비](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84)
+- [Do it! 지옥에서 온 문서관리자 깃&깃허브 입문](https://product.kyobobook.co.kr/detail/S000001817950)
+- [자바의 정석](https://product.kyobobook.co.kr/detail/S000001550352)
