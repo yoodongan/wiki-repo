@@ -2,10 +2,16 @@
 > 공부한 내용을 기록하는 저장소입니다. 기록은 모두 Notion 에서 진행했습니다. 
 > <br>링크 클릭 시 해당 Notion 페이지로 이동합니다.
 
+## [ SQL ]
+- - -
+### SQL 레벨업
+- [DBMS 아키텍처 개요, DBMS와 버퍼]()
+
+### 
+- [프로그래머스 SQL](https://hushed-bite-bb4.notion.site/SQL-Kit-2a759d87910b46d39fed44b892132083)
 
 ## [ Spring ]
-
----
+- - -
 ### 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
   - [프로젝트 환경설정](https://hushed-bite-bb4.notion.site/d56a0de87819409f821a33860613036d)
     - 프로젝트 환경 설정, 라이브러리와 스프링의 기본 동작 원리에 대해 알아본다.
@@ -73,9 +79,6 @@
 
 ## [ HTTP ]
 - [모든 개발자를 위한 HTTP 웹 기본 지식](https://hushed-bite-bb4.notion.site/HTTP-2d99ce4e02524588a767f25d9d096d6a)
-
-## [ 데이터베이스 ]
-- [프로그래머스 SQL](https://hushed-bite-bb4.notion.site/SQL-Kit-2a759d87910b46d39fed44b892132083)
 
 ## [ 협업 ]
 - [Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문 (책)](https://hushed-bite-bb4.notion.site/Git-Github-6376140d1bbf4137a704b6c03531a69c) 
