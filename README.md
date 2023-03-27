@@ -3,7 +3,7 @@
 > <br>링크 클릭 시 해당 Notion 페이지로 이동합니다.
 
 ## [ SQL ]
-- - -
+
 ### SQL 레벨업
 - [DBMS 아키텍처 개요, DBMS와 버퍼](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-1_2.md)
 
@@ -11,7 +11,7 @@
 - [프로그래머스 SQL](https://hushed-bite-bb4.notion.site/SQL-Kit-2a759d87910b46d39fed44b892132083)
 
 ## [ Spring ]
-- - -
+
 ### 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
   - [프로젝트 환경설정](https://hushed-bite-bb4.notion.site/d56a0de87819409f821a33860613036d)
     - 프로젝트 환경 설정, 라이브러리와 스프링의 기본 동작 원리에 대해 알아본다.
