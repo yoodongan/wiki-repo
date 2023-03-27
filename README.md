@@ -5,7 +5,7 @@
 ## [ SQL ]
 - - -
 ### SQL 레벨업
-- [DBMS 아키텍처 개요, DBMS와 버퍼]()
+- [DBMS 아키텍처 개요, DBMS와 버퍼](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-1_2.md)
 
 ### 
 - [프로그래머스 SQL](https://hushed-bite-bb4.notion.site/SQL-Kit-2a759d87910b46d39fed44b892132083)
