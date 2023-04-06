@@ -6,6 +6,10 @@
 
 ### SQL 레벨업
 - [DBMS 아키텍처 개요, DBMS와 버퍼](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-1_2.md)
+- [DBMS와 실행 계획, 실행 계획이 SQL 구문의 성능을 결정](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-3_4.md)
+- [SELECT, WHERE, GROUP BY, HAVING, ORDER BY, 뷰, 서브쿼리](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-6.md)
+- [조건 분기, 집합 연산, 윈도우 함수, 갱신](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-7.md)
+- [UNION 보다는 CASE식, 집계와 조건 분기, 그래도 UNION이 필요한 경우](https://github.com/yoodongan/wiki-repo/blob/master/sql-level-up/sql-8_9_10.md)
 
 ### 
 - [프로그래머스 SQL](https://hushed-bite-bb4.notion.site/SQL-Kit-2a759d87910b46d39fed44b892132083)
